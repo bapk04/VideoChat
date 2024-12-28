@@ -1,0 +1,10 @@
+Flask
+Flask-WTF
+WTForms
+Flask-SQLAlchemy
+Flask-Login
+Flask-SocketIO
+requests
+python-dotenv
+Flask-CORS
+Werkzeug
