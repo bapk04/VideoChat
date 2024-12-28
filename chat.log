@@ -4071,3 +4071,21 @@ INFO:werkzeug:127.0.0.1 - - [28/Dec/2024 16:07:37] "POST /api/admin-login HTTP/1
 INFO:werkzeug:127.0.0.1 - - [28/Dec/2024 16:07:37] "GET /api/meeting-presence HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [28/Dec/2024 16:07:37] "GET /api/meeting-presence HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [28/Dec/2024 16:07:43] "GET /api/meeting-details/x-soibjor_ HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2024 19:51:24] "POST /api/create/room HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2024 19:51:24] "GET /api/metered-domain HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2024 19:51:25] "GET /socket.io/?EIO=4&transport=polling&t=6ki1skse HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2024 19:51:25] "GET /socket.io/?EIO=4&transport=polling&t=6ki1rfqr HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2024 19:51:25] "POST /socket.io/?EIO=4&transport=polling&t=6kiajwga&sid=yqkYFGPGumaaG-38AAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2024 19:51:26] "GET /socket.io/?EIO=4&transport=polling&t=6kiakigu&sid=yqkYFGPGumaaG-38AAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2024 19:51:26] "GET /socket.io/?EIO=4&transport=polling&t=6kij1r3h&sid=yqkYFGPGumaaG-38AAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2024 19:51:26] "GET /socket.io/?EIO=4&transport=polling&t=6kij5x52&sid=yqkYFGPGumaaG-38AAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2024 19:51:30] "POST /api/end-meeting/9es7skgzfs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2024 19:51:31] "GET /socket.io/?EIO=4&transport=websocket&sid=yqkYFGPGumaaG-38AAAB HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2024 19:51:31] "OPTIONS /api/update-participants/9es7skgzfs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Dec/2024 19:51:31] "POST /api/update-participants/9es7skgzfs HTTP/1.1" 200 -
